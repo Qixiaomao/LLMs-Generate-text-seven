@@ -1,6 +1,3 @@
-以下是根据你的代码编写的GitHub README内容，包含项目概述、核心功能、使用方法和模型架构等关键信息，适合作为开源项目的说明文档：
-
-
 # MiniGPT: A Simplified GPT Implementation
 
 A lightweight implementation of GPT (Generative Pre-trained Transformer) for educational purposes, focusing on core Transformer components and language generation logic. This repository helps understand the inner workings of large language models (LLMs) through clean, modular code.
